@@ -1,0 +1,184 @@
+#main-container{
+margin:0 auto;
+max-width:1920px ;
+}
+
+
+
+.sidebar{
+  background-color:#0e1649;
+  width:343px;
+  height: 1080px;
+  padding-left:64px;
+  padding-top: 32px;
+  display: inline-block;
+}
+
+.sidebar-spacing{
+  margin-top:64px;
+}
+
+
+.sidebar a{
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #fff;
+  display:block;
+  margin-top: 24px;
+  text-decoration: none;
+
+}
+
+.sidebar .active{
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.right-section{
+  display:inline-block;
+  vertical-align: top;
+  margin-left: -4px;
+  
+}
+
+ .woman-img{
+   background-image: url(./assets/woman-img.png), linear-gradient(to right, #fcfaf7 9%, rgba(252, 250, 247, 0) 71%);
+   width: 1500px;
+   height: 821px;
+   display:inline-block;
+   vertical-align: top;
+
+
+}
+
+.main-contant{
+  width: 581px;
+  height: 347;
+  margin-top:238px;
+  margin-left:175px;
+}
+
+h5{
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.69;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1c1c1c;
+  text-transform: uppercase;
+
+}
+.defult-spacing{
+  margin-bottom: 16px;
+
+}
+
+.main-contant h1{
+  font-family: Times New Roman;
+  font-size: 72px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: 1.44px;
+  text-align: left;
+  color: #0e1649;
+  text-transform: capitalize;
+
+}
+
+.main-contant p{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #1c1c1c;
+  }
+.main-contant button{
+ 
+  justify-content: center;
+  align-items: center;
+   gap: 10px;
+   padding: 16px 32px;
+   border-radius: 12px;
+  background-color: #ff9f00;
+   border:none;
+  font-family: Assistant;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+    }
+
+.card{
+  width: 500px;
+  height: 259px;
+  padding:32px 64px 32px 32px;
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1c1c1c;
+  display:inline-block;
+  
+
+
+}
+
+.card h5{
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #1c1c1c;
+  
+}
+
+
+.yellow{
+
+background-color: #ff9f00;
+  
+  }
+
+    .orange{
+  
+  background-color: #ff7748;
+
+}
+    
+.pink{
+  background-color: #ff5288;
+  
+  
+}
+
+
+ 
+

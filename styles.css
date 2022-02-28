@@ -1,12 +1,12 @@
 #main-container{
 margin:0 auto;
-max-width:1920px ;
+min-width:1920px ;
 }
 
 
 
 .sidebar{
-  background-color:#0e1649;
+  background-color:var(--primary-color);
   width:343px;
   height: 1080px;
   padding-left:64px;
@@ -44,6 +44,7 @@ max-width:1920px ;
   display:inline-block;
   vertical-align: top;
   margin-left: -4px;
+
   
 }
 
@@ -170,11 +171,13 @@ background-color: #ff9f00;
     .orange{
   
   background-color: #ff7748;
+  margin-left: -4px;
 
 }
     
 .pink{
   background-color: #ff5288;
+  margin-left: -4px;
   
   
 }
